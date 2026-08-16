@@ -6,12 +6,12 @@
 
 <table>
     <tr>
-        <th align="left"><sub>Day</sub></th>
+        <th align="center"><sub>Day</sub></th>
         <th align="left"><sub>Work</sub></th>
     </tr>
     <tr>
-        <td><sub><a href="#day-260816">260816</a></sub></td>
-        <td><sub>초기 프로젝트 구조 정리</sub></td>
+        <td align="center"><sub><a href="#day-260816">260816</a></sub></td>
+        <td align="left"><sub>초기 프로젝트 구조 정리</sub></td>
     </tr>
 </table>
 
