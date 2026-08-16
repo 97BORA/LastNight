@@ -43,3 +43,20 @@ LastNight/
 <a id="day-260817"></a>
 
 ## ![Day](https://img.shields.io/badge/Day-260817-233D4D?labelColor=464858)
+
+```txt
+src/types/
+└─ global.d.ts
+
+> 전역 __initialLoaderTimers 설정
+
+LastNight/
+└─ index.html
+
+> initial-loader 추가
+
+src/features/
+└─ pageLoader/
+    └─ usePageLoader.tsx
+
+```

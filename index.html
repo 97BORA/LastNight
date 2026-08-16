@@ -6,7 +6,29 @@
         <title>rabbit</title>
     </head>
     <body>
+        <!-- initial-loader -->
+        <div id="initial-loader" class="initial-loader">
+            <div class="initial-loader-dots">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+
+        <!-- script initial-loader -->
+        <script>
+            window.__initialLoaderTimers = [
+                window.setTimeout(() => {
+                    document
+                        .getElementById('initial-loader')
+                        ?.classList.add('initial-loader--visible');
+                }, 150),
+            ];
+        </script>
+
+        <!-- root -->
         <div id="root"></div>
+        <!-- script -->
         <script type="module" src="/src/main.tsx"></script>
     </body>
 </html>
