@@ -13,6 +13,10 @@
         <td align="center"><sub><a href="#day-260816">260816</a></sub></td>
         <td align="left"><sub>초기 프로젝트 구조 정리</sub></td>
     </tr>
+    <tr>
+        <td align="center"><sub><a href="#day-260817">260817</a></sub></td>
+        <td align="left"><sub>. . .</sub></td>
+    </tr>
 </table>
 
 ---
@@ -20,8 +24,6 @@
 <a id="day-260816"></a>
 
 ## ![Day](https://img.shields.io/badge/Day-260816-233D4D?labelColor=464858)
-
-<sub>초기 Vite React 프로젝트 구조 확인.</sub>
 
 ```txt
 LastNight/
@@ -33,3 +35,11 @@ LastNight/
    ├─ index.css
    └─ main.tsx
 ```
+
+<sub>초기 Vite React 프로젝트 구조 확인.</sub>
+
+---
+
+<a id="day-260817"></a>
+
+## ![Day](https://img.shields.io/badge/Day-260817-233D4D?labelColor=464858)
