@@ -1,6 +1,6 @@
 ## Last Night
 
-<sub>React + TypeScript + Vite로 제작하는 홈페이지 프로젝트 . . . !</sub>
+<sub>:> PROJECT BORA</sub>
 
 ## Contents
 
@@ -36,9 +36,6 @@
 
 ```bash
 cd /home/hanabi/Untitled/LastNight
-
-rm -rf src/features
-rm -rf src/types
 
 : > src/App.css
 printf "@import 'tailwindcss';\n" > src/index.css
@@ -86,6 +83,13 @@ EOF
 
 npm run check
 npm run build
+```
+
+<sub>파일. 폴더 제거 명령어.</sub>
+
+```bash
+rm -rf src/features
+rm -rf src/types
 ```
 
 ---
