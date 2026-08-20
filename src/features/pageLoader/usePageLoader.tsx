@@ -8,7 +8,7 @@ const FORCE_LOADING = true;
 // TIME
 const LOADING_TIME = 3000;
 const INTRO_TIME = 3000;
-const FADEOUT_TIME = 3000;
+const FADEOUT_TIME = 1000;
 
 function usePageLoader() {
     const [showPageLoader, setShowPageLoader] = useState(true);
@@ -81,6 +81,7 @@ function usePageLoader() {
         };
     }, [pageLoaderPhase]);
 
+    // return
     return {
         showPageLoader,
         pageLoaderPhase,

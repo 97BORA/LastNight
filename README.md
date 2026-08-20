@@ -17,6 +17,10 @@
         <td align="center"><sub><a href="#day-260817">260817</a></sub></td>
         <td align="left"><sub>. . .</sub></td>
     </tr>
+    <tr>
+        <td align="center"><sub><a href="#day-260820">260820</a></sub></td>
+        <td align="left"><sub>. . .</sub></td>
+    </tr>
 </table>
 
 ---
@@ -48,15 +52,32 @@ LastNight/
 src/types/
 └─ global.d.ts
 
-> 전역 __initialLoaderTimers 설정
+LastNight/
+└─ index.html
+
+src/features/
+└─ pageLoader/
+    ├─ usePageLoader.tsx
+    └─ Loader.tsx
+
+src/
+└─ App.tsx
+```
+
+---
+
+<a id="day-260820"></a>
+
+## ![Day](https://img.shields.io/badge/Day-260820-233D4D?labelColor=464858)
+
+```txt
+src/
+└─ index.css
 
 LastNight/
 └─ index.html
 
-> initial-loader 추가
-
 src/features/
 └─ pageLoader/
-    └─ usePageLoader.tsx
-
+    └─ Loader.css
 ```
