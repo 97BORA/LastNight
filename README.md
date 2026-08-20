@@ -24,6 +24,10 @@
         <td align="center"><sub><a href="#day-260816">260816</a></sub></td>
         <td align="left"><sub>초기 프로젝트 구조 확인</sub></td>
     </tr>
+    <tr>
+        <td align="center"><sub><a href="#day-260821">260821</a></sub></td>
+        <td align="left"><sub>. . .</sub></td>
+    </tr>
 </table>
 
 ---
@@ -112,3 +116,18 @@ LastNight/
 ```
 
 ---
+
+<a id="day-260821"></a>
+
+## ![Day](https://img.shields.io/badge/Day-260821-233D4D?labelColor=464858)
+
+<sub>styles, types 기본 구조 추가.</sub>
+
+```txt
+src/styles/
+├─ reset.css
+└─ theme.css
+
+src/types/
+└─ global.d.ts
+```
